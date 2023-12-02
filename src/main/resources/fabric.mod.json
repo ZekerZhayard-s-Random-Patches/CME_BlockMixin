@@ -1,0 +1,15 @@
+{
+    "schemaVersion": 1,
+    "id": "cme_blockmixin",
+    "version": "${version}",
+    "name": "CME_BlockMixin",
+    "authors": [
+        "ZekerZhayard"
+    ],
+    "contact": {},
+    "license": "All-Rights-Reserved",
+    "environment": "*",
+    "mixins": [
+        "cme_blockmixin.mixins.json"
+    ]
+}

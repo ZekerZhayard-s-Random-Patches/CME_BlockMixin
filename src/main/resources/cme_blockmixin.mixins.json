@@ -1,0 +1,10 @@
+{
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_17",
+  "required": true,
+  "package": "io.github.zekerzhayard.cme_blockmixin.mixin",
+  "mixins": [
+    "MixinISeeWhatYouDidThere"
+  ],
+  "plugin": "io.github.zekerzhayard.cme_blockmixin.MixinConfigPlugin"
+}
